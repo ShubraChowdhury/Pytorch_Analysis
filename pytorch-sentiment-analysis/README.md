@@ -51,4 +51,6 @@ python -m spacy download en
 * B - [A Closer Look at Word Embeddings]
 
     This appendix notebook covers a brief look at exploring the pre-trained word embeddings provided by TorchText.
-### Reference https://github.com/bentrevett
+
+
+Reference https://github.com/bentrevett
