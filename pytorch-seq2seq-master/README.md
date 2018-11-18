@@ -30,6 +30,3 @@ python -m spacy download de
 
     Now we have the basic workflow covered, this tutorial will focus on improving our results. Building on our knowledge of PyTorch and TorchText gained from the previous tutorial, we'll cover a second second model, which handles the "information compression" problem faced by encoder-decoder models. This model will be based off an implementation of [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), which uses GRUs.
 
-* 3 - [Neural Machine Translation by Jointly Learning to Align and Translate]() **TODO**
-
-    Implementation of [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
